@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">513214895120-vmusr8tk05adha06f4f150jlp813mahi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mobile2-b58c2-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">513214895120</string>
+    <string name="google_api_key" translatable="false">AIzaSyC28lBz8p2a60DpyoS1nv6efFe5Byym98s</string>
+    <string name="google_app_id" translatable="false">1:513214895120:android:751970653fb644aaff2695</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC28lBz8p2a60DpyoS1nv6efFe5Byym98s</string>
+    <string name="google_storage_bucket" translatable="false">mobile2-b58c2.appspot.com</string>
+    <string name="project_id" translatable="false">mobile2-b58c2</string>
+</resources>
